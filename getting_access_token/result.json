@@ -1,0 +1,14 @@
+{
+    "access_token": "tpH9bwGaaIuphAm2X7sJvw0Q7h5z",
+    "expires_in": "3599"
+}
+
+{
+  "error": "HTTPSConnectionPool(host='andbox.safaricom.co.ke', port=443): Max retries exceeded with url: /oauth/v1/generate?grant_type=client_credentials (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbe8d528a70>: Failed to establish a new connection: [Errno -2] Name or service not known'))"
+}
+
+{
+  "error": "400 Client Error: Bad Request for url: https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=clnt_credentials"
+}
+
+
